@@ -1,4 +1,4 @@
-// カルテ プロトタイプ — 暗号化ファイルを復号して返す Service Worker（build mupdzaq6）
+// カルテ プロトタイプ — 暗号化ファイルを復号して返す Service Worker（build mupeh9ws）
 const SALT = "O//AuW5MP2aRmFi5emMHNA==";
 const KEY_URL = "./__key__";
 const TYPES = { html:"text/html; charset=utf-8", js:"text/javascript; charset=utf-8", mjs:"text/javascript; charset=utf-8",
